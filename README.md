@@ -21,7 +21,7 @@ Follow these steps to set up and run the project on your local machine.
 ### Prerequisites
 
 - Python 3.12.4
-- HTMX from https://unpkg.com/htmx.org@2.0.0/dist/htmx.js
+- HTMX from <https://unpkg.com/htmx.org@2.0.0/dist/htmx.js>
 
 ### Installation
 
@@ -52,6 +52,7 @@ Follow these steps to set up and run the project on your local machine.
    ```
 
 5. **Initialize Tailwind CSS:**
+
    ```sh
    tailwindcss init
    ```
@@ -141,4 +142,4 @@ Feel free to fork this project, open issues, and submit pull requests. Contribut
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more information.
